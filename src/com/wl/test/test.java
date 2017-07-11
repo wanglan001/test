@@ -1,4 +1,4 @@
-package test;
+package com.wl.test;
 
 public class test {
 
